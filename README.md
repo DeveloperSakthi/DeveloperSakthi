@@ -24,10 +24,10 @@
       <td align="center">
         <h3>🔢 Data Engineering</h3>
         <ul>
-          <li>ETL/ELT Pipeline Development</li>
+<!--           <li>ETL/ELT Pipeline Development</li>
           <li>Data Warehousing Solutions</li>
           <li>Big Data Processing</li>
-          <li>Data Modeling & Analysis</li>
+          <li>Data Modeling & Analysis</li> -->
         </ul>
       </td>
       <td align="center">
