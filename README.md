@@ -5,8 +5,8 @@ Transforming raw data into business gold — then building the web apps that let
 
 - 🎯 **Primary Domain:** Data Engineering (ETL, Data Warehousing, Streaming)  
 - 🛠 **Specialty:** MERN-stack Development (MongoDB • Express • React • Node.js)  
-- ☁️ **Cloud & Data Tools:** AWS S3, Glue, Redshift, Apache Airflow, Spark, Firebase :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}  
-- 📊 **Impact:** Processed 10 million+ records daily; reduced pipeline latency by 40% :contentReference[oaicite:8]{index=8}  
+- ☁️ **Cloud & Data Tools:** AWS S3, Glue, Redshift, Apache Airflow, Spark, Firebase  
+- 📊 **Impact:** Processed 10 million+ records daily; reduced pipeline latency by 40%  
 - 💬 **Let’s Collaborate:**  
   - 📧 sakthivelravi9894@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/sakthivel-r-351478297)  
@@ -21,22 +21,21 @@ Transforming raw data into business gold — then building the web apps that let
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![Apache Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apache-airflow)  
-![Apache Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apache-spark) :contentReference[oaicite:9]{index=9}  
+![Apache Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apache-spark)  
 
 ### 🌐 MERN & Web  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) :contentReference[oaicite:10]{index=10}  
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
 
 ---
 
 ## 📈 GitHub Stats & Visitor Counter  
 
 [![Sakthivel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperSakthi&show_icons=true&theme=radical)](https://github.com/DeveloperSakthi)  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DeveloperSakthi.DeveloperSakthi) :contentReference[oaicite:11]{index=11}  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DeveloperSakthi.DeveloperSakthi)  
 
 ---
 
