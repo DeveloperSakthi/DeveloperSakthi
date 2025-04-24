@@ -20,7 +20,7 @@ Transforming raw data into business gold — then building the web apps that let
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apache-spark)  
 
 ### 🌐 MERN & Web  
