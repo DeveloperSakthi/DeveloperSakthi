@@ -1,46 +1,80 @@
-# 👋 Hey there, I’m Sakthivel R  
-### Data Engineer & MERN-stack Artisan  
+# 👨‍💻 Sakthivel R
+## Data Architect × MERN Maestro
 
-Transforming raw data into business gold — then building the web apps that let teams act on it in real time.  
+> *Turning raw data into business intelligence, then crafting the interfaces that make it actionable.*
 
-- 🎯 **Primary Domain:** Data Engineering (ETL, Data Warehousing, Streaming)  
-- 🛠 **Specialty:** MERN-stack Development (MongoDB • Express • React • Node.js)  
-- ☁️ **Cloud & Data Tools:** AWS S3, Glue, Redshift, Apache Airflow, Spark, Firebase  
-- 📊 **Impact:** Processed 10 million+ records daily; reduced pipeline latency by 40%  
-- 💬 **Let’s Collaborate:**  
-  - 📧 sakthivelravi9894@gmail.com  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/sakthivel-r-351478297)  
-- ⚡ **Fun Fact:** I can architect a data lake and debug React components in the same afternoon!  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Engineer-20232A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/MERN_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Problem_Solver-20232A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
+</p>
+
+## 🧠 Core Expertise
+
+```python
+skills = {
+    "data_engineering": ["ETL/ELT Pipelines", "Data Warehousing", "Stream Processing"],
+    "web_development": ["MongoDB", "Express", "React", "Node.js"],
+    "cloud_platforms": ["AWS S3", "AWS Glue", "AWS Redshift", "Firebase"],
+    "data_tools": ["Apache Airflow", "Apache Spark", "Kafka", "dbt"],
+    "impact": "10M+ daily records processed • 40% pipeline latency reduction"
+}
+```
+
+## 🔧 Tech Arsenal
+
+<p align="center">
+  <kbd>
+    <span title="Python"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></span>
+    <span title="SQL"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></span>
+    <span title="MongoDB"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></span>
+    <span title="AWS"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></span>
+    <span title="Spark"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /></span>
+  </kbd>
+  
+  <kbd>
+    <span title="JavaScript"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></span>
+    <span title="Node.js"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></span>
+    <span title="Express"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></span>
+    <span title="React"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></span>
+    <span title="Firebase"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></span>
+  </kbd>
+</p>
+
+## 🌟 What I Do
+
+```mermaid
+graph LR
+    Data[Raw Data] -->|Extract| Pipeline[ETL Pipeline]
+    Pipeline -->|Transform| Warehouse[Data Warehouse]
+    Warehouse -->|Load| Insights[Business Insights]
+    Insights -->|Visualize| WebApps[MERN Web Apps]
+    WebApps -->|Enable| Action[Data-Driven Decisions]
+    Action -->|Generate| Data
+```
+
+## 🚀 Career Highlights
+
+* **Architected** real-time data pipelines handling 10M+ daily records
+* **Engineered** ETL workflows reducing processing latency by 40%
+* **Developed** full-stack MERN applications for data visualization & analysis
+* **Implemented** cloud-native data solutions on AWS ecosystem
+
+## 📫 Connect & Collaborate
+<p align="center">
+  <a href="mailto:sakthivelravi9894@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sakthivel-r-351478297">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DeveloperSakthi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack & Tools  
+<p align="center"><i>"Data without action is just noise — I build the signal."</i></p>
 
-### 🔢 Data Engineering  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white) 
-
-![Apache Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apache-spark)  
-
-### 🌐 MERN & Web  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
-
----
-
-## 📈 GitHub Stats & Visitor Counter  
-
-[![Sakthivel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperSakthi&show_icons=true&theme=radical)](https://github.com/DeveloperSakthi)  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DeveloperSakthi.DeveloperSakthi)  
-
----
-
-> “Data without action is just noise — I build the signal.” 🚀  
-
-
-
+<p align="center">⚡ <b>Fun Fact:</b> I can architect a data lake and debug React components in the same afternoon!</p>
