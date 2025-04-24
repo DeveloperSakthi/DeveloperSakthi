@@ -43,7 +43,7 @@
   </table>
 </div>
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
       <p><b>Technologies:</b> Java, MySQL</p>
     </td>
   </tr>
-</table>
+</table>-->
 
 ## 🛠️ Tech Stack
 
