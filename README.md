@@ -134,7 +134,7 @@
       <td><b>BSc</b></td>
       <td>Computer Science</td>
       <td>Shanmuga Industries Arts and Science College</td>
-      <td>CGPA: 7.85</td>
+      <td>CGPA: 7.497</td>
     </tr>
     <tr>
       <td><b>HSC</b></td>
